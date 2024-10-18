@@ -6,7 +6,7 @@ Main idea is to provide features that can make students so comfortable
 Everything in one place,  
 Features in my mind right now are:  
 1. Chat application inclusion -> being able to scan a qr and join a class of friends, chat and discuss stuff
-2. Progress tracker -> can link it with the tasks in the to do list section and display the progress
+2. Progress tracker -> can link it with the tasks in the to do list section and display the progress along with a streak feature which will help and motivate them to complete all of their tasks  
 3. Random Motivational Quote generator -> will just be a button on the top nav (we need it right ?)
 4. Homework assignments storage : Students will be able to store all their homework/assignment files in one place
 5. Personal Space : May be can include a diary where they can express their thoughts without a privacy concern
